@@ -1,0 +1,5 @@
+.idea
+dist
+artifacts
+node_modules
+tmp
